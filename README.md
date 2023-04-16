@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [O_o](https://your-solution-url.com)
-- Live Site URL: [^_^](https://your-live-site-url.com)
+- Solution URL: [O_o](https://github.com/Shadow-IO-oI/ecommerce-product-page)
+- Live Site URL: [^_^](https://ecommerce-product-page-jade.vercel.app)
 
 ## My process
 
